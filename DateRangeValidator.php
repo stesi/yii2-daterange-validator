@@ -4,7 +4,7 @@
  * @package yii2-daterange-validator
  */
 
-namespace nerburish\daterangevalidator;
+namespace stesi\daterangevalidator;
 
 use yii\validators\Validator;
 use yii\base\DynamicModel;
