@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-            "nerburish\\daterangevalidator\\": ""
+            "stesi\\daterangevalidator\\": ""
         }
     },
     "extra": {
